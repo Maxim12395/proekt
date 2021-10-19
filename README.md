@@ -1,2 +1,3 @@
 # proekt
-proekt(rubbish)
+proekt
+
